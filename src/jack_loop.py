@@ -53,5 +53,7 @@ def loop():
         jack.deactivate()
         jack.detach()
 
+loop()
+
 jack.deactivate()
 jack.detach()
